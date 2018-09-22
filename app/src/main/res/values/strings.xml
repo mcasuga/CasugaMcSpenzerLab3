@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CasugaMcSpenzerLab3</string>
+
+    <string name="styles_and_material_design">Styles &amp; Material Design</string>
+
+    <string name="title">The Reichtag</string>
+    <string name="location">Germany</string>
+    <string name="distance">9878.44 km</string>
+</resources>
