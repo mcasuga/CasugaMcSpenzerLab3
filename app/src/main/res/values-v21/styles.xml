@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="labThreeAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:buttonStyle">@style/labThreeTheme_button</item>
+        <item name="android:textColor">@color/textViewTextColor</item>
+    </style>
+
+    <style name="labThreeTheme_button" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/buttonPrimaryColor</item>
+        <item name="android:textColor">@color/buttonPrimaryTextColor</item>
+    </style>
+
+    <style name="labThreeTheme_title">
+        <item name="android:textColor">@color/titleTextViewColor</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="labThreeTheme_text">
+        <item name="android:textColor">@color/textViewTextColor</item>
+    </style>
+
+</resources>
